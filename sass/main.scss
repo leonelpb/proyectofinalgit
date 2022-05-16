@@ -5,7 +5,8 @@ $black2: #495057;
 
 body{
 	font-family: 'Montserrat', sans-serif;
-	color: $black2;
+	color: $primary;
+	background: $black2;
 }
 
 h1,h2,h3,h4,h5,h6{
@@ -50,7 +51,7 @@ a, .btn-link{
 // Header
 
 header{
-	background: #fff;
+	background: #494D43;
 	padding: 10px 0;
 	box-shadow: 0 5px 10px rgba(204,204,204,0.31);
 	position: fixed;
@@ -63,6 +64,7 @@ header{
 		font-size: 24px;
 		font-weight: 600;
 		text-transform: uppercase;
+		color: $primary;
 	}
 
 	.avatar-container{
@@ -133,6 +135,7 @@ header{
 		font-size: 14px;
 		padding: 8px 10px;
 		border-radius: 4px;
+		background: #BDB9B9;
 	}
 }
 
@@ -151,6 +154,7 @@ header{
 			margin-bottom: 20px;
 			border-radius: 4px;
 			overflow: hidden;
+			background:#494D43;
 
 			.product-image{
 				img{
