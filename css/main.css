@@ -12748,12 +12748,12 @@ header .avatar-container i {
 .products-list-container ul li .product-info .product-name {
   font-weight: 300;
   font-size: 20px;
-  color: #495057;
+  color: #ff7f00;
 }
-.products-list-container ul li .product-info .restaurant {
+.products-list-container ul li .product-info .juego {
   margin-bottom: 10px;
   font-size: 11px;
-  color: #807e7e;
+  color: #ff7f00;
   font-weight: 600;
 }
 .products-list-container ul li .product-info .stars {
@@ -12767,7 +12767,7 @@ header .avatar-container i {
   font-size: 18px;
   margin: 0;
   font-weight: 300;
-  color: #495057;
+  color: #ff7f00;
 }
 .products-list-container ul li .product-info .product-price span {
   font-size: 13px;
